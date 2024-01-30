@@ -1,7 +1,7 @@
 # GraphDPI-3CL
 <p align="center">
 
-<img width="612" alt="image" src="[https://github.com/duwa2/GraphDPI-3CL/assets/158106190/8193a19c-0789-436d-9268-d0d447919ef2](https://github.com/duwa2/GraphDPI-3CL/assets/158106190/86cfc6a6-653f-4375-ae15-44fd41fe44c8)">
+<img width="612" alt="image" src="https://github.com/duwa2/GraphDPI-3CL/assets/158106190/86cfc6a6-653f-4375-ae15-44fd41fe44c8">
 </p>
 
 # Molecular Feature Extraction Model with MPNN, BiLSTM, and Self-Attention
