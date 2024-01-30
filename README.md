@@ -37,4 +37,5 @@ cd MPNN-BiLSTM-SelfAttention-Model
 This project is licensed under the MIT License - see the LICENSE.md file for details.
 
 ## Contact
-If you have any questions or comments about this repository, please open an issue or contact the repository owner. Weian Du (duwan@mail.sysu.edu.cn)
+If you have any questions or comments about this repository, please open an issue or contact the repository owner.  
+Weian Du (duwan@mail.sysu.edu.cn)
