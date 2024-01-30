@@ -1,6 +1,8 @@
 # GraphDPI-3CL
-
+<p align="center">
 <img width="412" alt="image" src="https://github.com/duwa2/GraphDPI-3CL/assets/158106190/8193a19c-0789-436d-9268-d0d447919ef2">
+width="300"/>
+</p>
 
 # Molecular Feature Extraction Model with MPNN, BiLSTM, and Self-Attention
 
@@ -19,7 +21,7 @@ The model consists of the following components:
 
 To run this model, you will need the following libraries:
 
-- PyTorch
+- PyTorch3.6
 - PyTorch Geometric (torch-geometric)
 
 You can install the required libraries using pip:
